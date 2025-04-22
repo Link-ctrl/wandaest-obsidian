@@ -13,7 +13,7 @@ tags:
 int x = 10;
 decltype(x) y = 20;  // y — это int
 ```
-==А вот пример, где `decltype` = безошибочный сканер:
+А вот пример, где `decltype` = безошибочный сканер:
 ```cpp
 int x = 10;
 int& ref = x;
