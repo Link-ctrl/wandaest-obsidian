@@ -56,6 +56,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "b430a908d5753f29",
     "type": "split",
     "children": [
@@ -65,6 +66,17 @@
         "children": [
           {
             "id": "30c00baa52d22ae5",
+=======
+    "id": "5ea299fde5b4e067",
+    "type": "split",
+    "children": [
+      {
+        "id": "a83557f081392bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3128f8d0d4fc81b",
+>>>>>>> 3632291 (added some notes)
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,12 +89,20 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "db6ebd206786fcb6",
+=======
+            "id": "2e8e7062e85c5351",
+>>>>>>> 3632291 (added some notes)
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
+<<<<<<< HEAD
                 "query": "tag:Продуктивность",
+=======
+                "query": "",
+>>>>>>> 3632291 (added some notes)
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +114,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "cb3139e0209179a2",
+=======
+            "id": "8079d5eb2edb48cd",
+>>>>>>> 3632291 (added some notes)
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,6 +131,7 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200
   },
   "right": {
@@ -119,11 +144,28 @@
         "children": [
           {
             "id": "43ff38577ea04dc0",
+=======
+    "width": 300
+  },
+  "right": {
+    "id": "e14d308b29a513f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "443f3f1bb53cef5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b72f71e5a854b0",
+>>>>>>> 3632291 (added some notes)
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Programming/Школа 21/Выстраивание отношений с коллегами.md",
+=======
+>>>>>>> 3632291 (added some notes)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,25 +175,44 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< HEAD
               "title": "Backlinks for Выстраивание отношений с коллегами"
             }
           },
           {
             "id": "4376074356085516",
+=======
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "874997bdc208ede2",
+>>>>>>> 3632291 (added some notes)
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Welcome.md",
+=======
+>>>>>>> 3632291 (added some notes)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< HEAD
               "title": "Outgoing links from Welcome"
             }
           },
           {
             "id": "4ec391e972f3b47b",
+=======
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "eb91b06b148b871e",
+>>>>>>> 3632291 (added some notes)
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -166,25 +227,40 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "8918f14e6be5a2d0",
+=======
+            "id": "6d47980f02a9b8d3",
+>>>>>>> 3632291 (added some notes)
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Welcome.md",
+=======
+>>>>>>> 3632291 (added some notes)
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "Outline of Welcome"
+=======
+              "title": "Outline"
+>>>>>>> 3632291 (added some notes)
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 200,
+=======
+    "width": 300,
+>>>>>>> 3632291 (added some notes)
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,6 +274,7 @@
       "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "a534da0b1c80ba6f",
   "lastOpenFiles": [
     "Programming/Embedded/Встраиваемая система (embedded-system).md",
@@ -250,5 +327,18 @@
     "Education/Книги/2025/Untitled.canvas",
     "Без названия.canvas",
     "Без названия 1.canvas"
+=======
+  "active": "773a937c27c816fb",
+  "lastOpenFiles": [
+    "Programming/RIT/Untitled 1/ИПР.md",
+    "Pasted image 20250419194554.png",
+    "Programming/RIT/Untitled 1",
+    "Untitled",
+    "Programming/RIT/GNSS",
+    "Programming/RIT",
+    "create a link.md",
+    "Programming/Вопросы к собеседованию.md",
+    "Untitled.canvas"
+>>>>>>> 3632291 (added some notes)
   ]
 }
