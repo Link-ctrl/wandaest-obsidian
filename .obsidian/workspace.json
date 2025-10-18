@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "0334622f1f53c0a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b33e988c4a86778",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab6c4c16c7f28424",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/Internal toolchain backend (внутренняя система сборки).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Internal toolchain backend (внутренняя система сборки)"
+            }
+          },
+          {
+            "id": "94b57ce39a26171b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/Сompilation Toolchain (Инструментальная цепочка компилятора).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сompilation Toolchain (Инструментальная цепочка компилятора)"
+            }
+          },
+          {
+            "id": "a534da0b1c80ba6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/Toolchain  (набор инструментов).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Toolchain  (набор инструментов)"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b430a908d5753f29",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca57e7a39aaf9174",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c00baa52d22ae5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db6ebd206786fcb6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:Продуктивность",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cb3139e0209179a2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9183ad159d32b13b",
+    "type": "split",
+    "children": [
+      {
+        "id": "12e420f4dd199b28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43ff38577ea04dc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Programming/Школа 21/Выстраивание отношений с коллегами.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Выстраивание отношений с коллегами"
+            }
+          },
+          {
+            "id": "4376074356085516",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "4ec391e972f3b47b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8918f14e6be5a2d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a534da0b1c80ba6f",
+  "lastOpenFiles": [
+    "Programming/Embedded/Встраиваемая система (embedded-system).md",
+    "Programming/Embedded/Toolchain  (набор инструментов).md",
+    "Programming/Embedded/External toolchain backend(внешняя система сборки).md",
+    "Programming/Embedded/Cross-compilation toolchain.md",
+    "Programming/Embedded/Buildroot.md",
+    "Education/ИПР by Denisov M K 03.01.25.md",
+    "Programming/Embedded/Сompilation Toolchain (Инструментальная цепочка компилятора).md",
+    "Untitled",
+    "Programming/Embedded/Internal toolchain backend (внутренняя система сборки).md",
+    "Programming/Linux/Программы в корневой файловой системе.md",
+    "Programming/Linux/Права доступа к файоам в стандарте POSIX.md",
+    "Cache/Pasted image 20251016192926.png",
+    "Programming/Linux/Файловая система.md",
+    "Programming/Linux/Linux Kernel (ядро Линукса).md",
+    "Programming/Linux/dev directory.md",
+    "Welcome.md",
+    "Comp.md",
+    "Cache/Pasted image 20251014233828.png",
+    "Programming/Вопросы к собеседованию.md",
+    "create a link.md",
+    "Programming/C++/Функции с переменным числом параметров.md",
+    "Programming/C++/SFINAE.md",
+    "Programming/C++/Mutable.md",
+    "Programming/C++/Decltype.md",
+    "Programming/Embedded",
+    "Programming/Базовые понятия/Сигнатура.md",
+    "Programming/C++/rvalue и lvalue.md",
+    "RIT/Tasks/70419.md",
+    "Education/Ежедневник/2025/Май/26.05.2025 - 01.05.2025.md",
+    "RIT/Map.md.md",
+    "RIT/Tasks",
+    "Education/Ежедневник/2025/Май",
+    "Education/Untitled",
+    "RIT",
+    "Cache/Pasted image 20250419194554.png",
+    "Cache/Pasted image 20250417230521.png",
+    "Cache/Pasted image 20250417225924.png",
+    "Cache/Pasted image 20250415014550.png",
+    "Cache/1710456902IPGIPLPIFG.jpg",
+    "Pasted image 20250505190224.png",
+    "Untitled.canvas",
+    "Programming/Школа 21",
+    "Pasted image 20250419194554.png",
+    "Cache/Pasted image 20250417230556.png",
+    "Programming/C++",
+    "Programming/Базовые понятия",
+    "Programming/Алгоритмы и структуры данных",
+    "Education/Книги/2025/Untitled.canvas",
+    "Без названия.canvas",
+    "Без названия 1.canvas"
+  ]
+}
