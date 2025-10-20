@@ -1,42 +1,14 @@
 {
   "main": {
-    "id": "0334622f1f53c0a6",
+    "id": "531d64319b2f3aa3",
     "type": "split",
     "children": [
       {
-        "id": "8b33e988c4a86778",
+        "id": "5a5a7eb4f17ce236",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6c4c16c7f28424",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Embedded/Internal toolchain backend (внутренняя система сборки).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Internal toolchain backend (внутренняя система сборки)"
-            }
-          },
-          {
-            "id": "94b57ce39a26171b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Embedded/Сompilation Toolchain (Инструментальная цепочка компилятора).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Сompilation Toolchain (Инструментальная цепочка компилятора)"
-            }
-          },
-          {
-            "id": "a534da0b1c80ba6f",
+            "id": "4613a6d544691036",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,34 +21,21 @@
               "title": "Toolchain  (набор инструментов)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "b430a908d5753f29",
+    "id": "fd540fa211e34ae2",
     "type": "split",
     "children": [
       {
-        "id": "ca57e7a39aaf9174",
+        "id": "c0cf9df46cfb8b7c",
         "type": "tabs",
         "children": [
           {
-            "id": "30c00baa52d22ae5",
-=======
-    "id": "5ea299fde5b4e067",
-    "type": "split",
-    "children": [
-      {
-        "id": "a83557f081392bff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e3128f8d0d4fc81b",
->>>>>>> 3632291 (added some notes)
+            "id": "745af39283146127",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -89,20 +48,12 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "db6ebd206786fcb6",
-=======
-            "id": "2e8e7062e85c5351",
->>>>>>> 3632291 (added some notes)
+            "id": "932737e81a510179",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-<<<<<<< HEAD
-                "query": "tag:Продуктивность",
-=======
                 "query": "",
->>>>>>> 3632291 (added some notes)
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,11 +65,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "cb3139e0209179a2",
-=======
-            "id": "8079d5eb2edb48cd",
->>>>>>> 3632291 (added some notes)
+            "id": "8512d3012c18ee09",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -131,41 +78,22 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 200
-  },
-  "right": {
-    "id": "9183ad159d32b13b",
-    "type": "split",
-    "children": [
-      {
-        "id": "12e420f4dd199b28",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "43ff38577ea04dc0",
-=======
     "width": 300
   },
   "right": {
-    "id": "e14d308b29a513f2",
+    "id": "36a4e8aee0923f6e",
     "type": "split",
     "children": [
       {
-        "id": "443f3f1bb53cef5b",
+        "id": "03efdc66edb7b6a9",
         "type": "tabs",
         "children": [
           {
-            "id": "a9b72f71e5a854b0",
->>>>>>> 3632291 (added some notes)
+            "id": "07341156e61c3232",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Programming/Школа 21/Выстраивание отношений с коллегами.md",
-=======
->>>>>>> 3632291 (added some notes)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,44 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< HEAD
-              "title": "Backlinks for Выстраивание отношений с коллегами"
-            }
-          },
-          {
-            "id": "4376074356085516",
-=======
               "title": "Backlinks"
             }
           },
           {
-            "id": "874997bdc208ede2",
->>>>>>> 3632291 (added some notes)
+            "id": "f37b080da7911e46",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Welcome.md",
-=======
->>>>>>> 3632291 (added some notes)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< HEAD
-              "title": "Outgoing links from Welcome"
-            }
-          },
-          {
-            "id": "4ec391e972f3b47b",
-=======
               "title": "Outgoing links"
             }
           },
           {
-            "id": "eb91b06b148b871e",
->>>>>>> 3632291 (added some notes)
+            "id": "41cc50cf88caddce",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -227,118 +135,45 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "8918f14e6be5a2d0",
-=======
-            "id": "6d47980f02a9b8d3",
->>>>>>> 3632291 (added some notes)
+            "id": "394a1527bb82fc1a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Welcome.md",
-=======
->>>>>>> 3632291 (added some notes)
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< HEAD
-              "title": "Outline of Welcome"
-=======
               "title": "Outline"
->>>>>>> 3632291 (added some notes)
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 200,
-=======
     "width": 300,
->>>>>>> 3632291 (added some notes)
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
     }
   },
-<<<<<<< HEAD
-  "active": "a534da0b1c80ba6f",
+  "active": "4613a6d544691036",
   "lastOpenFiles": [
-    "Programming/Embedded/Встраиваемая система (embedded-system).md",
-    "Programming/Embedded/Toolchain  (набор инструментов).md",
-    "Programming/Embedded/External toolchain backend(внешняя система сборки).md",
     "Programming/Embedded/Cross-compilation toolchain.md",
-    "Programming/Embedded/Buildroot.md",
-    "Education/ИПР by Denisov M K 03.01.25.md",
-    "Programming/Embedded/Сompilation Toolchain (Инструментальная цепочка компилятора).md",
-    "Untitled",
-    "Programming/Embedded/Internal toolchain backend (внутренняя система сборки).md",
-    "Programming/Linux/Программы в корневой файловой системе.md",
-    "Programming/Linux/Права доступа к файоам в стандарте POSIX.md",
-    "Cache/Pasted image 20251016192926.png",
+    "Programming/Embedded/Toolchain  (набор инструментов).md",
     "Programming/Linux/Файловая система.md",
+    "Programming/Linux/Программы в корневой файловой системе.md",
     "Programming/Linux/Linux Kernel (ядро Линукса).md",
-    "Programming/Linux/dev directory.md",
-    "Welcome.md",
-    "Comp.md",
-    "Cache/Pasted image 20251014233828.png",
-    "Programming/Вопросы к собеседованию.md",
-    "create a link.md",
-    "Programming/C++/Функции с переменным числом параметров.md",
-    "Programming/C++/SFINAE.md",
-    "Programming/C++/Mutable.md",
-    "Programming/C++/Decltype.md",
-    "Programming/Embedded",
-    "Programming/Базовые понятия/Сигнатура.md",
-    "Programming/C++/rvalue и lvalue.md",
-    "RIT/Tasks/70419.md",
-    "Education/Ежедневник/2025/Май/26.05.2025 - 01.05.2025.md",
-    "RIT/Map.md.md",
-    "RIT/Tasks",
-    "Education/Ежедневник/2025/Май",
-    "Education/Untitled",
-    "RIT",
-    "Cache/Pasted image 20250419194554.png",
-    "Cache/Pasted image 20250417230521.png",
-    "Cache/Pasted image 20250417225924.png",
-    "Cache/Pasted image 20250415014550.png",
-    "Cache/1710456902IPGIPLPIFG.jpg",
-    "Pasted image 20250505190224.png",
-    "Untitled.canvas",
-    "Programming/Школа 21",
-    "Pasted image 20250419194554.png",
-    "Cache/Pasted image 20250417230556.png",
-    "Programming/C++",
-    "Programming/Базовые понятия",
-    "Programming/Алгоритмы и структуры данных",
-    "Education/Книги/2025/Untitled.canvas",
-    "Без названия.canvas",
-    "Без названия 1.canvas"
-=======
-  "active": "773a937c27c816fb",
-  "lastOpenFiles": [
-    "Programming/RIT/Untitled 1/ИПР.md",
-    "Pasted image 20250419194554.png",
-    "Programming/RIT/Untitled 1",
-    "Untitled",
-    "Programming/RIT/GNSS",
-    "Programming/RIT",
-    "create a link.md",
-    "Programming/Вопросы к собеседованию.md",
-    "Untitled.canvas"
->>>>>>> 3632291 (added some notes)
+    "Programming/Linux/Права доступа к файлам в стандарте POSIX.md",
+    "Programming/RIT/Untitled 1/ИПР.md"
   ]
 }
