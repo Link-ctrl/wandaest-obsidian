@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Embedded/Bootloader (начальный загрузчик).md",
+                "file": "Programming/Linux/Linux Kernel (ядро Линукса).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bootloader (начальный загрузчик)"
+              "title": "Linux Kernel (ядро Линукса)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "36a4e8aee0923f6e",
@@ -166,12 +166,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "745af39283146127",
+  "active": "4613a6d544691036",
   "lastOpenFiles": [
+    "Programming/Embedded/Bootloader (начальный загрузчик).md",
     "Cache/Pasted image 20251020181136.png",
     "Programming/Embedded/Toolchain  (набор инструментов).md",
     "Programming/Embedded/Встраиваемая система (embedded-system).md",
-    "Programming/Embedded/Bootloader (начальный загрузчик).md",
     "Programming/Embedded/Cross-compilation toolchain.md",
     "Programming/Linux/Файловая система.md",
     "Programming/Linux/Программы в корневой файловой системе.md",
