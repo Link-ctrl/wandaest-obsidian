@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Education/ИПР by Denisov M K 03.01.25.md",
+                "file": "Programming/Linux/Linux Kernel (ядро Линукса).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ИПР by Denisov M K 03.01.25"
+              "title": "Linux Kernel (ядро Линукса)"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "36a4e8aee0923f6e",
@@ -169,17 +169,10 @@
   "active": "4613a6d544691036",
   "lastOpenFiles": [
     "Programming/Embedded/Bootloader (начальный загрузчик).md",
-    "Programming/Embedded/Buildroot.md",
-    "Programming/Embedded/Device Tree (Дерево устройств).md",
-    "Programming/Embedded/Загрузка из UEFI (Universal Extensible Firmware Interface).md",
-    "Cache/Pasted image 20251021143101.png",
-    "Education/ИПР by Denisov M K 03.01.25.md",
-    "Cache/Pasted image 20251021131205.png",
-    "Programming/Embedded/Cross-compilation toolchain.md",
-    "Programming/Embedded/Сompilation Toolchain (Инструментальная цепочка компилятора).md",
-    "Programming/Embedded/Встраиваемая система (embedded-system).md",
     "Cache/Pasted image 20251020181136.png",
     "Programming/Embedded/Toolchain  (набор инструментов).md",
+    "Programming/Embedded/Встраиваемая система (embedded-system).md",
+    "Programming/Embedded/Cross-compilation toolchain.md",
     "Programming/Linux/Файловая система.md",
     "Programming/Linux/Программы в корневой файловой системе.md",
     "Programming/Linux/Linux Kernel (ядро Линукса).md",
