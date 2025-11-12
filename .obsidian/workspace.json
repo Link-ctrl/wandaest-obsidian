@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/C++ Исключения под капотом.md",
+                "file": "Programming/C++/Code-review check-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "C++ Исключения под капотом"
+              "title": "Code-review check-list"
             }
           }
         ]
@@ -168,10 +168,28 @@
   },
   "active": "4613a6d544691036",
   "lastOpenFiles": [
-    "Programming/C++/Исключения (exceptions).md",
-    "Programming/C++/C++ Исключения под капотом.md",
-    "Programming/C++/Конструкторы.md",
+    "RIT/Tasks/72162.md",
+    "Programming/C++/Code-review check-list.md",
     "RIT/Tasks/72157.md",
+    "Education/ИПР by Denisov M K 03.01.25.md",
+    "Programming/C++/C++ Исключения под капотом.md",
+    "Programming/Системы сборки/CMake/Оптимизация GCC.md",
+    "Programming/Системы сборки/CMake/CFLAGS и CXXFLAGS.md",
+    "Programming/Системы сборки/CMake",
+    "Programming/Системы сборки",
+    "Programming/GIT/Что такое Git?.md",
+    "Programming/GIT/Работа с ветками.md",
+    "Programming/GIT",
+    "Programming/Embedded/Загрузка из UEFI (Universal Extensible Firmware Interface).md",
+    "Programming/Embedded/Device Tree (Дерево устройств).md",
+    "Cache/Pasted image 20251026223300.png",
+    "Cache/Pasted image 20251026165711.png",
+    "Cache/Pasted image 20251026164527.png",
+    "Cache/Pasted image 20251026163058.png",
+    "Cache/Pasted image 20251021143101.png",
+    "Cache/Pasted image 20251021131205.png",
+    "Programming/C++/Исключения (exceptions).md",
+    "Programming/C++/Конструкторы.md",
     "Programming/Linux/Linux Kernel (ядро Линукса).md",
     "Programming/Embedded/Bootloader (начальный загрузчик).md",
     "Cache/Pasted image 20251020181136.png",
