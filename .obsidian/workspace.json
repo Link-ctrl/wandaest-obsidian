@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/C++/Code-review check-list.md",
+                "file": "templates/Check-list Review Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code-review check-list"
+              "title": "Check-list Review Template"
             }
           }
         ]
@@ -168,8 +168,13 @@
   },
   "active": "4613a6d544691036",
   "lastOpenFiles": [
-    "RIT/Tasks/72162.md",
+    "templates/Daily Template.md",
+    "templates/Default Template.md",
+    "templates/Course Template.md",
+    "templates/Check-list Review Template.md",
+    "templates/Reference Template.md",
     "Programming/C++/Code-review check-list.md",
+    "RIT/Tasks/72162.md",
     "RIT/Tasks/72157.md",
     "Education/ИПР by Denisov M K 03.01.25.md",
     "Programming/C++/C++ Исключения под капотом.md",
@@ -198,7 +203,6 @@
     "Programming/Embedded/Cross-compilation toolchain.md",
     "Programming/Linux/Файловая система.md",
     "Programming/Linux/Программы в корневой файловой системе.md",
-    "Programming/Linux/Права доступа к файлам в стандарте POSIX.md",
-    "Programming/RIT/Untitled 1/ИПР.md"
+    "Programming/Linux/Права доступа к файлам в стандарте POSIX.md"
   ]
 }
