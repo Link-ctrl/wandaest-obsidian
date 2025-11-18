@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/GIT/Работа с ветками.md",
+                "file": "Programming/Embedded/Buildroot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Работа с ветками"
+              "title": "Buildroot"
             }
           }
         ]
@@ -168,9 +168,23 @@
   },
   "active": "55235f21ca57afd8",
   "lastOpenFiles": [
+    "Programming/Embedded/Cross-compilation toolchain.md",
+    "Programming/Embedded/Buildroot.md",
+    "Programming/Embedded/Системы сборки.md",
+    "Education/ИПР by Denisov M K 03.01.25.md",
+    "Untitled.canvas",
+    "Daily/18-11-2025.md",
+    "Untitled.base",
+    "Programming/Базовые понятия/Сигнатура.md",
+    "Programming/C++/ODR.md",
+    "Programming/C++/std function.md",
+    "Programming/C++/SFINAE.md",
+    "Programming/C++/rvalue и lvalue.md",
+    "Programming/C++/RTTI (Информация о типе во время выполнения).md",
+    "Programming/C++/Perfect forwarding.md",
+    "Programming/C++/Lazy initialization.md",
     "Programming/GIT/Работа с ветками.md",
     "Programming/GIT/Что такое Git?.md",
-    "Education/ИПР by Denisov M K 03.01.25.md",
     "Programming/Системы сборки/CMake/Оптимизация GCC.md",
     "Programming/Системы сборки/CMake/CFLAGS и CXXFLAGS.md",
     "Programming/Системы сборки/Untitled/Untitled",
@@ -184,20 +198,14 @@
     "Programming/GIT",
     "Programming/Школа 21/Расскажите о себе.md",
     "Programming/Embedded/Bootloader (начальный загрузчик).md",
-    "Programming/Embedded/Buildroot.md",
     "Programming/Embedded/Device Tree (Дерево устройств).md",
     "Programming/Embedded/Загрузка из UEFI (Universal Extensible Firmware Interface).md",
     "Cache/Pasted image 20251021143101.png",
     "Cache/Pasted image 20251021131205.png",
-    "Programming/Embedded/Cross-compilation toolchain.md",
     "Programming/Embedded/Сompilation Toolchain (Инструментальная цепочка компилятора).md",
     "Programming/Embedded/Встраиваемая система (embedded-system).md",
     "Cache/Pasted image 20251020181136.png",
     "Programming/Embedded/Toolchain  (набор инструментов).md",
-    "Programming/Linux/Файловая система.md",
-    "Programming/Linux/Программы в корневой файловой системе.md",
-    "Programming/Linux/Linux Kernel (ядро Линукса).md",
-    "Programming/Linux/Права доступа к файлам в стандарте POSIX.md",
-    "Programming/RIT/Untitled 1/ИПР.md"
+    "Programming/Linux/Файловая система.md"
   ]
 }
