@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "03e5123e070a63a7",
+        "id": "5a5a7eb4f17ce236",
         "type": "tabs",
         "children": [
           {
-            "id": "55235f21ca57afd8",
+            "id": "4613a6d544691036",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+                "file": "templates/Check-list Review Template.md",
                 "file": "Programming/Embedded/Buildroot.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "Check-list Review Template"
               "title": "Buildroot"
             }
           }
@@ -166,8 +168,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "55235f21ca57afd8",
+  "active": "4613a6d544691036",
   "lastOpenFiles": [
+    "templates/Daily Template.md",
+    "templates/Default Template.md",
+    "templates/Course Template.md",
+    "templates/Check-list Review Template.md",
+    "templates/Reference Template.md",
+    "Programming/C++/Code-review check-list.md",
+    "RIT/Tasks/72162.md",
+    "RIT/Tasks/72157.md",
+    "Education/ИПР by Denisov M K 03.01.25.md",
+    "Programming/C++/C++ Исключения под капотом.md",
     "Programming/Embedded/Cross-compilation toolchain.md",
     "Programming/Embedded/Buildroot.md",
     "Programming/Embedded/Системы сборки.md",
@@ -187,10 +199,13 @@
     "Programming/GIT/Что такое Git?.md",
     "Programming/Системы сборки/CMake/Оптимизация GCC.md",
     "Programming/Системы сборки/CMake/CFLAGS и CXXFLAGS.md",
-    "Programming/Системы сборки/Untitled/Untitled",
     "Programming/Системы сборки/CMake",
     "Programming/Системы сборки",
-    "Programming/Untitled.md",
+    "Programming/GIT/Что такое Git?.md",
+    "Programming/GIT/Работа с ветками.md",
+    "Programming/GIT",
+    "Programming/Embedded/Загрузка из UEFI (Universal Extensible Firmware Interface).md",
+    "Programming/Embedded/Device Tree (Дерево устройств).md",
     "Cache/Pasted image 20251026223300.png",
     "Cache/Pasted image 20251026165711.png",
     "Cache/Pasted image 20251026164527.png",
@@ -202,10 +217,19 @@
     "Programming/Embedded/Загрузка из UEFI (Universal Extensible Firmware Interface).md",
     "Cache/Pasted image 20251021143101.png",
     "Cache/Pasted image 20251021131205.png",
+    "Programming/C++/Исключения (exceptions).md",
+    "Programming/C++/Конструкторы.md",
+    "Programming/Linux/Linux Kernel (ядро Линукса).md",
+    "Programming/Embedded/Bootloader (начальный загрузчик).md",
     "Programming/Embedded/Сompilation Toolchain (Инструментальная цепочка компилятора).md",
     "Programming/Embedded/Встраиваемая система (embedded-system).md",
     "Cache/Pasted image 20251020181136.png",
     "Programming/Embedded/Toolchain  (набор инструментов).md",
+    "Programming/Embedded/Встраиваемая система (embedded-system).md",
+    "Programming/Embedded/Cross-compilation toolchain.md",
+    "Programming/Linux/Файловая система.md",
+    "Programming/Linux/Программы в корневой файловой системе.md",
+    "Programming/Linux/Права доступа к файлам в стандарте POSIX.md"
     "Programming/Linux/Файловая система.md"
   ]
 }
